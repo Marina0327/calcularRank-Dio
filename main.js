@@ -34,7 +34,7 @@ function checkRank(vitorias, derrotas)
         nivel = "Imortal";
     }
 
-    return `O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivel}`;
+    return `Olá! O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivel}`;
 }
 
 checkRank(97,20);
